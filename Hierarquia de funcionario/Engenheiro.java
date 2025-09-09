@@ -9,7 +9,9 @@ public class Engenheiro extends Funcionario {
     public void exibirInformacoes(){
         System.out.println("Cargo: " + nome);
         System.out.println("Salario Total: " + salario);
+        System.out.println("Curso: " + curso);
         
     }
 
 }
+
