@@ -5,6 +5,7 @@ class Papagaio extends Animal {
 
     @Override
     public void fazerSom() {
-        System.out.println(nome + " diz: Canto! ");
+        System.out.println(nome + " Canto! ");
     }
 }
+
