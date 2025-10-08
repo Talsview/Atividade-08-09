@@ -5,6 +5,7 @@ class Cachorro extends Animal {
 
     @Override
     public void fazerSom() {
-        System.out.println(nome + " diz: Latido! ");
+        System.out.println(nome + " Latido! ");
     }
+
 }
